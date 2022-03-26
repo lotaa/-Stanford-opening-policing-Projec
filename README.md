@@ -1,12 +1,12 @@
 # Stanford Opening Policing Project
 ### The goal: I'll be analyzing a dataset of traffic stops in Rhode Island that was collected by the Stanford Open Policing Project.
 
-* 1- Preparing the data for analysis
+*  Preparing the data for analysis
 
 
 
-*2- Exploring the relationship between gender and policing
+* Exploring the relationship between gender and policing
 
 
 
-*3 -Visual exploratory data analysis
+* Visual exploratory data analysis
